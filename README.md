@@ -10,7 +10,7 @@
 ![DAX](https://img.shields.io/badge/DAX-3670A0?style=for-the-badge&logo=DAX&logoColor=ffdd54)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3670A0?style=for-the-badge&logo=Seaborn&logoColor=ffdd54)
 ![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-3670A0?style=for-the-badge&logo=MATPLOTLIB&logoColor=ffdd54)
-![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-3670A0?style=for-the-badge&logo=MATPLOTLIB&logoColor=ffdd54)
+![Visualizations](https://img.shields.io/badge/Visualizations-3670A0?style=for-the-badge&logo=Visualizations&logoColor=ffdd54)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mdolib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdolib&theme=dark&hide_border=false)<br/>
