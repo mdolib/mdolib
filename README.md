@@ -15,7 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=mdolib&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdolib&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdolib&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Streamlit App](https://static.streamlit.io/badges/st...)](https://share.streamlit.io/[Mohammed Dolib]/[repo name]/[branch name]/[app path]). 
 ---
 [![](https://visitcount.itsvg.in/api?id=mdolib&icon=0&color=0)](https://visitcount.itsvg.in)
 
